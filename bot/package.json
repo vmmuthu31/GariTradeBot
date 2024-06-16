@@ -1,0 +1,19 @@
+{
+  "name": "garitradebot",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "aptos": "^1.21.0",
+    "node-fetch": "^3.3.2",
+    "telegram-bot-api": "^2.0.1"
+  }
+}
